@@ -1,31 +1,31 @@
 
-# Factory Method Pattern Example in Java
+ Factory Method Pattern Example in Java
 
 This project demonstrates the Factory Method Design Pattern with different document types.
 
-## 📄 Document Types
+ 📄 Document Types
 - WordDocument
 - PdfDocument
 - ExcelDocument
 
-## 🏭 Factories
+🏭 Factories
 - WordDocumentFactory
 - PdfDocumentFactory
 - ExcelDocumentFactory
 
-## 💻 How to Run
+💻 How to Run
 
-### Compile all files:
+ Compile all files:
 ```bash
 javac src/*.java
 ```
 
-### Run:
+ Run:
 ```bash
 java -cp src FactoryPatternTest
 ```
 
-## 📂 Project Structure
+ 📂 Project Structure
 ```
 src/
   Document.java
@@ -39,6 +39,6 @@ src/
   FactoryPatternTest.java
 ```
 
-## 🙌 Author
+ 🙌 Author
 
-Your Name Here – *FactoryMethodPatternExample Contributor*
+DD
